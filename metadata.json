@@ -1,0 +1,5 @@
+{
+  "name": "C Programming Course Dashboard",
+  "description": "An interactive dashboard to track progress through a C programming and data structures course. It features a complete checklist of modules, calculates completion percentage, and uses Gemini to generate detailed summaries for each topic.",
+  "requestFramePermissions": []
+}
